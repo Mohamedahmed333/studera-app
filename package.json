@@ -16,7 +16,8 @@
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "cookie": "^0.6.0",
-    "@anthropic-ai/sdk": "^0.24.0"
+    "@anthropic-ai/sdk": "^0.24.0",
+    "micro": "^10.0.1"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -30,3 +31,4 @@
     "autoprefixer": "^10"
   }
 }
+
